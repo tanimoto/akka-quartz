@@ -1,6 +1,8 @@
 akka-quartz
 ===============
 
+[![Build Status](https://travis-ci.org/tanimoto/akka-quartz.svg?branch=master)](https://travis-ci.org/tanimoto/akka-quartz)
+
 The Akka scheduler is limited, and using Apache Camel to run timers is silly.
 
 ## Features ##
